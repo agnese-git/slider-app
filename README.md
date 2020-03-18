@@ -1,6 +1,9 @@
 
 **Setting up the Slider app**
 
+## Prerequisites:
+  yarn needs to be installed
+
 ## 1) Open the Terminal
 
 Use Terminal (Linux or Mac) or alternative for Windows. You can also use editor of your choice
