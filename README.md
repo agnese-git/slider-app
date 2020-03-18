@@ -2,7 +2,7 @@
 **Setting up the Slider app**
 
 ## Prerequisites:
-  yarn needs to be installed
+  yarn needs to be installed and styled-components added
 
 ## 1) Open the Terminal
 
